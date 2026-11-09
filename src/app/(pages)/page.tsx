@@ -25,6 +25,7 @@ const Home = () => {
   return (
     <div>
       <HeroSection />
+      <h2>Hola</h2>
       <div className='via-primary/20 mx-auto h-px w-4/5 bg-linear-to-r from-transparent to-transparent'></div>
       <TimelineSection />
       <div className='via-primary/20 mx-auto h-px w-4/5 bg-linear-to-r from-transparent to-transparent'></div>
